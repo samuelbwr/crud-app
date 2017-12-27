@@ -1,0 +1,8 @@
+[submodule "crud-front"]
+	path = crud-front
+	url = git@github.com:samuelbwr/crud-front.git
+	branch = master
+[submodule "crud-api"]
+	path = crud-api
+	url = git@github.com:samuelbwr/crud-api.git
+	branch = master
